@@ -1,0 +1,7 @@
+.slidev-layout h1 + p {
+  font-family: "Sigmar One",system-ui !important;
+}
+
+.slidev-layout h1, .slidev-layout h2, .slidev-layout h3 {
+  font-family: "Sigmar One",system-ui !important;
+}
